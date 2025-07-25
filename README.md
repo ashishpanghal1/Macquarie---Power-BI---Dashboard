@@ -5,7 +5,7 @@ This Power BI dashboard visualizes key stock market performance metrics for **Ma
 
 ---
 
-![Dashboard Screenshot]()
+![Dashboard Screenshot]( https://github.com/ashishpanghal1/Macquarie---Power-BI---Dashboard/blob/main/Macquarie%20Dashboard%20screenshort.png )
 
 ---
 
