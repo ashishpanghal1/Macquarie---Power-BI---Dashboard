@@ -1,7 +1,8 @@
-# Macquarie---Power-BI---Dashboard
+ Macquarie---Power-BI---Dashboard
+
 # 📊 Macquarie Stock Market Dashboard
 
-This Power BI dashboard visualizes key stock market performance metrics for **Macquarie** over a 12-month period. It provides insights into price trends, volume changes, and performance across quarters.
+This Power BI dashboard visualizes key stock market performance metrics for **Macquarie** over 12 months. It provides insights into price trends, volume changes, and performance across quarters.
 
 ---
 
@@ -35,7 +36,7 @@ This Power BI dashboard visualizes key stock market performance metrics for **Ma
 - Great for analyzing performance over financial quarters.
 
 #### 4. **Sum of Close and Volume by Month**
-- Shows relationship between closing prices and trading volume.
+- Shows the relationship between closing prices and trading volume.
 - Useful for assessing price-volume correlation.
 
 #### 5. **Interactive Filters**
@@ -56,7 +57,7 @@ This Power BI dashboard visualizes key stock market performance metrics for **Ma
 ---
 
 ## 📌 Author
-Created by: *[Your Name]*  
+Created by: *Ashish Choudhary*  
 Course: *Data Visualization with Power BI – Great Learning*  
 Use this project to showcase data visualization and analytical skills.
 
@@ -64,7 +65,7 @@ Use this project to showcase data visualization and analytical skills.
 
 ## 📥 How to Use
 1. Download or clone this repo.
-2. Open the `.pbix` file (if shared) in Power BI Desktop to interact with the dashboard.
+2. Open the `.pbix` file in Power BI Desktop to interact with the dashboard.
 3. Refer to the screenshot for static insights.
 
 ---
